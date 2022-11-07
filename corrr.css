@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+  
+
+}
+h1{
+    border: 15px;
+    font-style: initial;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input{
+    border-radius: 10px;
+    border: none;
+    
+    height: 29px;
+    text-align: center;
+    font: 20px normal arial;
+    background-color: rgb(193, 193, 193);
+    
+} 
+img {
+    padding: 15px;
+}
